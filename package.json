@@ -1,0 +1,19 @@
+{
+  "name": "renew-jetbrains-lisence",
+  "version": "1.0.0",
+  "description": "This package will renew your Jetbrains' Trial License",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "Danial Dabirian",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^97.0.0",
+    "selenium-webdriver": "^4.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
